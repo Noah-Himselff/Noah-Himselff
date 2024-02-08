@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <br>I'm a Computer Engineering student and an AI enthusiastic looking to improve my knowledge in the field of AI.<br>I started programming in fall 2022 and have 6 months of work experience as an AI researcher<br>I have worked on ML , DL , Computer Vision and NLP projects in Persian and English.<br>I'm currently working on Large Language Model and how to fine tune and create them
 
 
@@ -18,4 +18,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Noah-Himselff&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
