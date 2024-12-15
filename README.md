@@ -1,5 +1,5 @@
 # About Me:
-I'm a Computer Engineering student and an AI enthusiastic looking to improve my knowledge in the field of AI.<br>I started programming in fall 2022 and have 6 months of work experience as an AI researcher.<br>During my time as an AI programmer I've worked on ML , DL , Computer Vision and NLP projects in Persian and English.<br>Currently working on Large Language Model and how to fine tune and create them
+I'm a Computer Engineering student and an AI enthusiastic looking to improve my knowledge in the field of AI.<br>I started programming in fall 2022 and have work experience in corporate and startup environments since 2023.<br>During my time as an AI Developer I've worked on ML , DL , Computer Vision and NLP projects in multiple languages.<br>My current work and research is focused on the field of LLM, where I have developed projects on topics such as LLM fine tuning, PEFT, RAGs, API driven or local assistants and multimodal chatbots 
 
 
 ## 🌐 Socials:
